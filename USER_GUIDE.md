@@ -2,7 +2,8 @@
 
 ## Как установить приложение
 
-***iOS***
+### IOS
+
 - Откройте `App Store`
 - Перейдите на вкладку `Поиск`
 - В строке поиска введите `TestFlight` (https://apps.apple.com/us/app/testflight/id899247664)
