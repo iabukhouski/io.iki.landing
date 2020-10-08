@@ -2,12 +2,8 @@
 
 ## Как установить приложение
 
-### IOS
-
-- Откройте `App Store`
-- Перейдите на вкладку `Поиск`
-- В строке поиска введите `TestFlight` (https://apps.apple.com/us/app/testflight/id899247664)
-- Откройте приложение `TestFlight`
+- Для iOS перейдите по ссылке: http://apple.co/2G4BE79
+- Для Android перейдите по ссылке: http://bit.ly/3i13NsZ
 
 ## Как создать аккаунт?
 
